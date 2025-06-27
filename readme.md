@@ -43,7 +43,7 @@ A modern, visually appealing scientific calculator with a sleek design and advan
 
 ## 🚀 Demo
 
-**Live Demo:** https://scientific-calculator.onrender.com
+**Live Demo:** https://basic-calculator-pearl.vercel.app/
 
 ## 🛠️ Technologies Used
 
